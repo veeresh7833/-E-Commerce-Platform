@@ -1,4 +1,4 @@
-package com.example.emailserviceapr24.utils;
+package com.example.emailservice.utils;
 
 import javax.mail.Message;
 import javax.mail.Session;

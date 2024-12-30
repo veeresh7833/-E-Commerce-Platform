@@ -1,4 +1,4 @@
-package com.example.emailserviceapr24.dtos;
+package com.example.emailservice.dtos;
 
 import lombok.Getter;
 import lombok.Setter;

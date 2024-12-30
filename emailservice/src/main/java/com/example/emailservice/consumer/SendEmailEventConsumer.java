@@ -1,7 +1,7 @@
-package com.example.emailserviceapr24.consumer;
+package com.example.emailservice.consumer;
 
-import com.example.emailserviceapr24.dtos.SendEmailEventDto;
-import com.example.emailserviceapr24.utils.EmailUtil;
+import com.example.emailservice.dtos.SendEmailEventDto;
+import com.example.emailservice.utils.EmailUtil;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;

@@ -1,7 +1,7 @@
-package com.example.emailserviceapr24.controller;
+package com.example.emailservice.controller;
 
 
-import com.example.emailserviceapr24.dtos.SendEmailEventDto;
+import com.example.emailservice.dtos.SendEmailEventDto;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.web.bind.annotation.GetMapping;
