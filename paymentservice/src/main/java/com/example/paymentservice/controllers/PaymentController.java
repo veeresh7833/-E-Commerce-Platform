@@ -1,7 +1,7 @@
-package com.example.paymentserviceapr24.controllers;
+package com.example.paymentservice.controllers;
 
-import com.example.paymentserviceapr24.dtos.IntiatePaymentDTO;
-import com.example.paymentserviceapr24.services.PaymentService;
+import com.example.paymentservice.dtos.IntiatePaymentDTO;
+import com.example.paymentservice.services.PaymentService;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

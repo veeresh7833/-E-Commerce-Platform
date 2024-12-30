@@ -1,4 +1,4 @@
-package com.example.paymentserviceapr24.paymentgateways;
+package com.example.paymentservice.paymentgateways;
 
 public interface PaymentGateway {
 

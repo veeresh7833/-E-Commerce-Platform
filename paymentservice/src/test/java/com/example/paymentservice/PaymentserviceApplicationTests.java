@@ -1,10 +1,10 @@
-package com.example.paymentserviceapr24;
+package com.example.paymentservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Paymentserviceapr24ApplicationTests {
+class PaymentserviceApplicationTests {
 
     @Test
     void contextLoads() {

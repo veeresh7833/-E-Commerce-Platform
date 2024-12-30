@@ -1,6 +1,6 @@
-package com.example.paymentserviceapr24.services;
+package com.example.paymentservice.services;
 
-import com.example.paymentserviceapr24.paymentgateways.PaymentGateway;
+import com.example.paymentservice.paymentgateways.PaymentGateway;
 import org.springframework.stereotype.Service;
 
 @Service
